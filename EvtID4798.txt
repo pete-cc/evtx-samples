@@ -1,0 +1,12 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+PS C:\Users\Administrator> wmic useraccount get name
+Name
+Administrator
+DefaultAccount
+Guest
+user
+WDAGUtilityAccount
+
+PS C:\Users\Administrator>
